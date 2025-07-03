@@ -8,4 +8,4 @@
 <!-- DAILY_GIF_END -->
 
 # Welcome to my side of Github 😄
-I am a (B.Eng Software Engineering student)["https://www.qub.ac.uk/courses/undergraduate/software-engineering-placement-beng-g604/"] at Queen's University Belfast.
+I am a [B.Eng Software Engineering student](https://www.qub.ac.uk/courses/undergraduate/software-engineering-placement-beng-g604/) at Queen's University Belfast.
