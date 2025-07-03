@@ -16,7 +16,7 @@ When I’m not coding, you’ll catch me:
 - And overthinking geopolitical strategies like a politician before an election.
 
 Currently coding from : **Belfast, Northern Ireland, United Kingdom UK** <br> 
-Currently thnking of: AnythingHere
+Currently thinking of: AnythingHere
 ## 🧬 Tech DNA
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
