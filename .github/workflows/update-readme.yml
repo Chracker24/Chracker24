@@ -17,10 +17,9 @@ jobs:
         id: date
         run: echo "day=$(date +%A | tr '[:upper:]' '[:lower:]')" >> $GITHUB_OUTPUT
 
-      - name: Update symbolic link for today's GIF
+      - name: Copy today's GIF into today.gif
         run: |
-          rm -f hello-gifs/today.gif
-          ln -s ${{ steps.date.outputs.day }}.gif hello-gifs/today.gif
+          cp hello-gifs/${{ steps.date.outputs.day }}.gif hello-gifs/today.gif
 
       - name: Commit and push changes
         run: |
