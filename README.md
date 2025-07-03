@@ -32,3 +32,10 @@ When I’m not coding, you’ll catch me:
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![Assembly](https://img.shields.io/badge/-Assembly-555555?style=flat&logo=gnu&logoColor=white)
+
+## Github stats
+<!-- GitHub Stats Card -->
+![Chr's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chracker24&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10)
+
+<!-- Top Languages Card -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chracker24&layout=compact&theme=tokyonight&hide_border=true&border_radius=10)
