@@ -35,7 +35,10 @@ When I’m not coding, you’ll catch me:
 
 ## Github stats
 <!-- GitHub Stats Card -->
-![Stats](https://github-readme-stats.vercel.app/api?username=Chracker24&show_icons=true&theme=transparent&bg_color=00000000&text_color=ffffff)
+![Chr's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chracker24&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10)
 
 <!-- Top Languages Card -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chracker24&layout=compact&theme=tokyonight&hide_border=true&border_radius=10)
+
+<!-- GitHub Streak -->
+![GitHub Streak](https://streak-stats.demolab.com?user=Chracker24&theme=tokyonight&hide_border=true&border_radius=10)
