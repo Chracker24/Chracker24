@@ -35,7 +35,7 @@ When I’m not coding, you’ll catch me:
 
 ## 📊 GitHub Stats
 
-<table>
+<table align='center'>
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=Chracker24&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="Chr's GitHub Stats" />
