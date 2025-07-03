@@ -2,7 +2,7 @@
 
 <!-- DAILY_GIF_START -->
 <p align='center'>
-  ![](hello-gifs/monday.gif)
+  <img src="hello-gifs/monday.gif" alt="Daily Hello GIF" />
 </p>
 <p>This gif changes everyday. Check in tomorrow to get greeted by another person 😁</p>
 <!-- DAILY_GIF_END -->
