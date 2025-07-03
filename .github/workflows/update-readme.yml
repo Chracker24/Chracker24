@@ -26,12 +26,7 @@ jobs:
       - name: Commit and push changes
         run: |
           git config --global user.name 'Christy Chovalloor'
-<<<<<<< HEAD
-          git config --global user.email 'chracker24@users.noreply.github.com'
-=======
           git config --global user.email 'christy.chovalloor@gmail.com'
-          git remote set-url origin https://x-access-token:${{ secrets.GIF_PUSH_TOKEN }}@github.com/Chracker24/Chracker24.git
->>>>>>> 638487b99d423af6e98ce28e8ad78f701a794f27
           git add hello-gifs/today.gif
           git commit -m "🔁 Daily Hello GIF updated: ${{ steps.date.outputs.day }}" || echo "No changes to commit"
           git push origin main
