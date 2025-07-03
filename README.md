@@ -33,12 +33,20 @@ When I’m not coding, you’ll catch me:
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![Assembly](https://img.shields.io/badge/-Assembly-555555?style=flat&logo=gnu&logoColor=white)
 
-## Github stats
-<!-- GitHub Stats Card -->
-![Chr's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chracker24&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10)
+## 📊 GitHub Stats
 
-<!-- Top Languages Card -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chracker24&layout=compact&theme=tokyonight&hide_border=true&border_radius=10)
-
-<!-- GitHub Streak -->
-![GitHub Streak](https://streak-stats.demolab.com?user=Chracker24&theme=tokyonight&hide_border=true&border_radius=10)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Chracker24&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="Chr's GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chracker24&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://streak-stats.demolab.com?user=Chracker24&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
