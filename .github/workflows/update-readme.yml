@@ -31,7 +31,8 @@ jobs:
       
       - name: Update README.md with new location
         run: |
-          sed -i "s|Currently thinking of:.|Currently thinking of: '${LOCATION}'|" README.md 
+          LOCATION="${{ env.LOCATION }}"
+          sed -i "s|Currently thinking of:.*|Currently thinking of: '${LOCATION}'|" README.md 
           
       - name: Commit and push changes
         run: |
