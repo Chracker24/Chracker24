@@ -14,3 +14,17 @@ When I’m not coding, you’ll catch me:
 - Writing stories ✍️
 - Drafting scripts for stand-up comedy 🎤
 - And overthinking geopolitical strategies like a politician before an election.
+## 🧬 Tech DNA
+
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy)
+![Scikit-learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat&logo=scikit-learn)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat&logo=github-actions)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3)
