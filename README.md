@@ -16,18 +16,38 @@ When I’m not coding, you’ll catch me:
 - And overthinking geopolitical strategies like a politician before an election.
 ## 🧬 Tech DNA
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy)
-![Scikit-learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat&logo=scikit-learn)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat)
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat&logo=github-actions)
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![Assembly](https://img.shields.io/badge/-Assembly-555555?style=flat&logo=gnu&logoColor=white)
+<p align="center">
+  <svg width="100%" height="150">
+    <defs>
+      <path id="dnaPath" d="M0,75 Q50,0 100,75 T200,75 T300,75 T400,75 T500,75 T600,75 T700,75 T800,75 T900,75 T1000,75" fill="none" />
+    </defs>
+
+    <!-- JavaScript -->
+    <text font-size="18" fill="#f7df1e">
+      <textPath href="#dnaPath" startOffset="0%">
+        🟡 JavaScript 🟡 Node.js 🟢 React 🔵
+      </textPath>
+    </text>
+
+    <!-- Java -->
+    <text font-size="18" fill="#007396">
+      <textPath href="#dnaPath" startOffset="25%">
+        ☕ Java ☕ Spring Boot 🌿
+      </textPath>
+    </text>
+
+    <!-- Assembly -->
+    <text font-size="18" fill="#aaa">
+      <textPath href="#dnaPath" startOffset="50%">
+        ⚙️ Assembly ⚙️ x86 🧠
+      </textPath>
+    </text>
+
+    <animateTransform attributeName="transform"
+      type="rotate"
+      from="0 500 75"
+      to="360 500 75"
+      dur="10s"
+      repeatCount="indefinite"/>
+  </svg>
+</p>
