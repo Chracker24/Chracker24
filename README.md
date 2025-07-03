@@ -21,28 +21,24 @@ When I’m not coding, you’ll catch me:
     <defs>
       <path id="dnaPath" d="M0,75 Q50,0 100,75 T200,75 T300,75 T400,75 T500,75 T600,75 T700,75 T800,75 T900,75 T1000,75" fill="none" />
     </defs>
-
     <!-- JavaScript -->
     <text font-size="18" fill="#f7df1e">
       <textPath href="#dnaPath" startOffset="0%">
         🟡 JavaScript 🟡 Node.js 🟢 React 🔵
       </textPath>
     </text>
-
     <!-- Java -->
     <text font-size="18" fill="#007396">
       <textPath href="#dnaPath" startOffset="25%">
         ☕ Java ☕ Spring Boot 🌿
       </textPath>
     </text>
-
     <!-- Assembly -->
     <text font-size="18" fill="#aaa">
       <textPath href="#dnaPath" startOffset="50%">
         ⚙️ Assembly ⚙️ x86 🧠
       </textPath>
     </text>
-
     <animateTransform attributeName="transform"
       type="rotate"
       from="0 500 75"
