@@ -15,18 +15,28 @@ jobs:
         with:
           token: ${{ secrets.GIF_PUSH_TOKEN }}
 
-      - name: Set current month (lowercase)
+      - name: Get current month (lowercase)
         id: date
         run: echo "month=$(date +%B | tr '[:upper:]' '[:lower:]')" >> $GITHUB_OUTPUT
 
       - name: Copy monthly GIF to today.gif
         run: |
           cp hello-gifs/${{ steps.date.outputs.month }}.gif hello-gifs/today.gif
-
+          
+      - name: Pick a random 'Currently thinking of...' location
+        id: location
+        run: |
+          LOCATION=$(shuf -n 1 thinking-locations.txt)
+          echo "LOCATION=$LOCATION" >> $GITHUB_ENV
+      
+      - name: Update README.md with new location
+        run: |
+          sed -i -E "s|Currently thinking of:.|Currently thinking of: **${{ env.LOCATION }}*|" README.md 
+          
       - name: Commit and push changes
         run: |
           git config --global user.name 'Christy Chovalloor'
           git config --global user.email 'chracker24@users.noreply.github.com'
-          git add hello-gifs/today.gif
-          git commit -m "🔁 Monthly Hello GIF updated: ${{ steps.date.outputs.month }}" || echo "No changes to commit"
+          git add hello-gifs/today.gif README.md
+          git commit -m "🔁 Monthly Hello GIF updated: ${{ steps.date.outputs.month }} and Location to: ${{ steps.location.outputs.location }}" || echo "No changes to commit"
           git push origin main
