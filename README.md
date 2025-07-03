@@ -15,7 +15,7 @@ When I’m not coding, you’ll catch me:
 - Drafting scripts for stand-up comedy 🎤
 - And overthinking geopolitical strategies like a politician before an election.
 
-Currently coding from : **Belfast, Northern Ireland, United Kingdom UK 
+Currently coding from : **Belfast, Northern Ireland, United Kingdom UK** <br> 
 Currently thnking of: AnythingHere
 ## 🧬 Tech DNA
 
