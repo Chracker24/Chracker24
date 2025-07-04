@@ -57,5 +57,6 @@ Currently thinking of: **Silicon valley 💻**
 <p align="center">
   <strong>⚠️ 404: You’ve reached the end.</strong><br><br>
   There's nothing more to see here.<br>
-  Don't leave yet, check my pinned repos.  
+  Don't leave yet,<br> 
+  check my pinned repos. 😁  
 </p>
