@@ -52,10 +52,5 @@ Currently thinking of: **Silicon valley 💻**
       <img src="https://streak-stats.demolab.com?user=Chracker24&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
     </td>
   </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chracker24&theme=blue-green" alt="GitHub Activity Graph" />
-    </td>
-  </tr>
 </table>
 
