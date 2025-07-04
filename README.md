@@ -54,3 +54,8 @@ Currently thinking of: **Silicon valley 💻**
   </tr>
 </table>
 
+<p align="center">
+  <strong>⚠️ 404: You’ve reached the end.</strong><br><br>
+  There's nothing more to see here.<br>
+  Don't leave yet, check my pinned repos.  
+</p>
