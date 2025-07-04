@@ -51,7 +51,8 @@ Currently thinking of: **Silicon valley 💻**
     <td colspan="2" align="center">
       <img src="https://streak-stats.demolab.com?user=Chracker24&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
     </td>
+    <td>
+      [![Christy's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Chracker24&theme=blue-green) (https://github.com/ashutosh00710/github-readme-activity-graph)
+    </td>
   </tr>
 </table>
-
-[![Christy's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Chracker24&theme=blue-green)](https://github.com/ashutosh00710/github-readme-activity-graph)
