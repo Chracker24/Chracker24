@@ -43,9 +43,6 @@ Currently thinking of: **Silicon valley 💻**
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=Chracker24&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="Chr's GitHub Stats" />
     </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chracker24&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages" />
-    </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
