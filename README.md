@@ -37,20 +37,10 @@ Currently thinking of: **Silicon valley 💻**
 ![Assembly](https://img.shields.io/badge/-Assembly-555555?style=flat&logo=gnu&logoColor=white)
 
 ## 📊 GitHub Stats
-
-<table align='center'>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Chracker24&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="Chr's GitHub Stats" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://streak-stats.demolab.com?user=Chracker24&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Chracker24&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="Chr's GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=Chracker24&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
+</p>
 <p align="center">
   <strong>⚠️ 404: You’ve reached the end.</strong><br><br>
   There's nothing more to see here.<br>
