@@ -8,7 +8,7 @@
 <!-- DAILY_GIF_END -->
 
 # Welcome to my side of Github 😄
-I am a [B.Eng Software Engineering student](https://www.qub.ac.uk/courses/undergraduate/software-engineering-placement-beng-g604/) at Queen's University Belfast with a passion in **Machine Learning**, **Deep Learning**, **Product Innovation** and **International Relations** (Wild combo, i know 👀). Here i create Repositories to store code and files of the projects that I love and loved coding.
+I am a [B.Eng Software Engineering student](https://www.qub.ac.uk/courses/undergraduate/software-engineering-placement-beng-g604/) at Queen's University Belfast with a passion in **Software Engineering**,**Machine Learning**, **Deep Learning**, **Product Innovation** and **International Relations** (Wild combo, i know 👀). Here i create Repositories to store code and files of the projects that I love and loved coding.
 <br>
 When I’m not coding, you’ll catch me:
 - Writing stories ✍️
